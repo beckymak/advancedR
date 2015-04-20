@@ -1,9 +1,13 @@
 # Advanced R - Exercises and notes
 
 _Links:_
+
 [Advanced R](http://adv-r.had.co.nz)
+
 [UBC Discussion on Github](https://github.com/aammd/UBCadv-r)
+
 [UBC Discussion on Github Wiki](https://github.com/aammd/UBCadv-r/wiki)
+
 [R fiddle](http://www.r-fiddle.org/)
 
 ---
